@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfSubject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subject>
+    <lector>
+      <lastname>Жиляк</lastname>
+      <name>Надежда</name>
+      <otchestvo>Александровна</otchestvo>
+      <audience>311-1</audience>
+    </lector>
+    <subject>БД</subject>
+    <cource>3</cource>
+    <specialty>ПОИТ</specialty>
+    <numberLect>25</numberLect>
+    <numberLab>12</numberLab>
+    <control>Зачет</control>
+    <date>29 марта 2018 г.</date>
+  </Subject>
+  <Subject>
+    <lector>
+      <lastname>Новосельская</lastname>
+      <name>Ольга</name>
+      <otchestvo>Александровна</otchestvo>
+      <audience>419-1</audience>
+    </lector>
+    <subject>ТЦ</subject>
+    <cource>2</cource>
+    <specialty>ДЭИВИ</specialty>
+    <numberLect>20</numberLect>
+    <numberLab>15</numberLab>
+    <control>Зачет</control>
+    <date>19 мая 2018 г.</date>
+  </Subject>
+  <Subject>
+    <lector>
+      <lastname>Пацей</lastname>
+      <name>Наталья</name>
+      <otchestvo>Владимировна</otchestvo>
+      <audience>311-1</audience>
+    </lector>
+    <subject>ООП</subject>
+    <cource>2</cource>
+    <specialty>ИСИТ</specialty>
+    <numberLect>30</numberLect>
+    <numberLab>18</numberLab>
+    <control>Экзамен</control>
+    <date>24 марта 2018 г.</date>
+  </Subject>
+  <Subject>
+    <lector>
+      <lastname>Мороз</lastname>
+      <name>Елена</name>
+      <otchestvo>Станиславовна</otchestvo>
+      <audience>311-1</audience>
+    </lector>
+    <subject>БД</subject>
+    <cource>2</cource>
+    <specialty>ПОИБМС</specialty>
+    <numberLect>40</numberLect>
+    <numberLab>20</numberLab>
+    <control>Экзамен</control>
+    <date>1 марта 2018 г.</date>
+  </Subject>
+</ArrayOfSubject>

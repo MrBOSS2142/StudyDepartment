@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfSubject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subject>
+    <lector>
+      <lastname>Смелов</lastname>
+      <name>Владислав</name>
+      <otchestvo>Владимрович</otchestvo>
+      <audience>123-4а</audience>
+    </lector>
+    <subject>ТЦ</subject>
+    <cource>3</cource>
+    <specialty>ИСИТ</specialty>
+    <numberLect>0</numberLect>
+    <numberLab>1</numberLab>
+    <control>Зачет</control>
+    <date>13 марта 2018 г.</date>
+  </Subject>
+</ArrayOfSubject>
